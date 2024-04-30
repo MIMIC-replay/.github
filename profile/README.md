@@ -6,7 +6,7 @@ MIMIC is an open-source session replay framework streamlining the recording and 
 
 ## Getting Started
 - **MIMIC Case Study** - Read our in-depth technical case study [here](https://mimic-replay.com)
-- **Installing MIMIC** - To begin using MIMIC, you can find our set up instructions in our [installation guide](https://github.com/MIMIC-replay/MIMIC/blob/main/README.md)
+- **Installing MIMIC** - To begin using MIMIC, you can find the setup instructions in our [installation guide](https://github.com/MIMIC-replay/MIMIC/blob/main/README.md)
 - **Source Code** - You can find all source code in our [MIMIC repository](https://github.com/MIMIC-replay/MIMIC)
 - **Presentation** - For a full overview of MIMIC and its features, check out our [ten minute video](https://youtu.be/qyyWbdknP9g?si=gHU3OM_ZpE8CnGtK)
 
